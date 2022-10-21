@@ -151,7 +151,7 @@ label:hover{
     position: relative;
 }
 #check3:checked ~ .container .photo-gallery .DA,
-#check3:checked ~ .container .photo-gallery .cloud{
+#check3:checked ~ .container .photo-gallery .ineuron{
     transform: scale(0);
     opacity: 0;
     position: absolute;
@@ -163,7 +163,7 @@ label:hover{
     opacity: 1;
     position: relative;
 }
-#check4:checked ~ .container .photo-gallery .DA,
+#check4:checked ~ .container .photo-gallery .ineuron,
 #check4:checked ~ .container .photo-gallery .cloud{
     transform: scale(0);
     opacity: 0;
